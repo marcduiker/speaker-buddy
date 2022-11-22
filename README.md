@@ -17,11 +17,11 @@ Once the conference agenda is published and the Speaker Buddies are known, conta
 
 You can offer your speakers some peace of mind when they know someone has their back in case of technical difficulties (e.g. laptop failure).
 
-### CfP preparation
+### 1. CfP preparation
 
 When preparing the Call for Papers (CfP), add a field to whatever system you're using to have the speaker indicate if they are willing to be a Speaker Buddy. Include a link to [this repo](https://github.com/marcduiker/speaker-buddy) so they can read more about it.
 
-### Speaker onboarding / confirmation
+### 2. Speaker onboarding / confirmation
 
 When onboarding/confirming speakers to your conference, mention the Speaker Buddy System and provide the list of speakers who have volunteered to be a Speaker Buddy.
 
@@ -45,7 +45,7 @@ It's best to prepare well in advance. For more information how to be prepared, r
 
 ---
 
-### Preparing the event location
+### 3. Preparing the event location
 
 When you prepare the conference rooms, label a front-row seat for the Speaker Buddy. This way they can help out the speaker quickly in case of technical issues.
 
