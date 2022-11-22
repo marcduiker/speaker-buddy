@@ -39,7 +39,7 @@ These speakers are volunteering as Speaker Buddies:
 
 - {list of speakers}
 
-Our conference agenda is published at {conference agenda url}, so look for a Speaker Buddy that is available during your session. 
+Our conference agenda is published at {conference agenda url}, so look for a Speaker Buddy that is available during your session.
 
 It's best to prepare well in advance. For more information how to be prepared, read the tips at https://github.com/marcduiker/speaker-buddy.
 
@@ -54,3 +54,7 @@ When you prepare the conference rooms, label a front-row seat for the Speaker Bu
 Thank you that you want to contribute! ❤️
 
 If you have any suggestions, please [open an issue](https://github.com/marcduiker/speaker-buddy/issues) or [create a pull request](https://github.com/marcduiker/speaker-buddy/pulls).
+
+## Background
+
+I decided to create this repository after reflecting on an unfortunate technical issue I experienced when talking at a conference. [Mattias Karlsson](https://github.com/devlead), who was also speaking there, really saved me by using his laptop and setting up a TeamViewer session between our devices. He was also the one who coined the term "Speaker Buddy".
