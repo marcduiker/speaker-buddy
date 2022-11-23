@@ -21,7 +21,7 @@ You can help out by:
 
 ### 1.2. For speakers who want a Speaker Buddy
 
-If you are going to speak at a conference and you want another speaker to have your back in case you run into technical issues, then is for you!
+If you are going to speak at a conference and you want another speaker to have your back in case you run into technical issues, then this is for you!
 
 Once the conference agenda is known and the Speaker Buddies are confirmed by the conference organizers, contact one of the Speaker Buddies (who does not speak at the same time as you!) to ask if they are willing to help you out in case of technical issues / laptop failure. If they are, you can discuss the details such as:
 
