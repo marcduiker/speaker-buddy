@@ -25,13 +25,13 @@ If you are going to speak at a conference and you want another speaker to have y
 
 Once the conference agenda is known and the Speaker Buddies are confirmed by the conference organizers, contact one of the Speaker Buddies (who does not speak at the same time as you!) to ask if they are willing to help you out in case of technical issues / laptop failure, or just being there as a friendly face in the audience. If they are, you can discuss the details such as:
 
-- Supporting you by sitting on the front row (smiling and nodding).
-- Having a copy of your presentation on their machine.
-- Cloning your code repository, installing SDKs and tools on their machine, if you want to show / run code locally.
+- Supporting you by sitting in the front row (smiling and nodding).
+- Have a copy of your presentation on their machine.
+- Cloning your code repository, installing SDKs and tools on their machine, if you want to show/run code locally.
 - Doing a (remote) dry run via their laptop to be completely prepared for a technical failure. (You also test your database backups right?)
 - Is there any other way your buddy can help you out? Can they tell a funny story during the technical issue, ask a relevant question, help out in case you get difficult questions, or do something else to put you at ease?
 
-> Even with the existence of cloud-based coding environments, I still suggest to have a local environment available in case the internet connection is not good enough.
+> Even with the existence of cloud-based coding environments, I still suggest having a local environment available in case the internet connection is not good enough.
 
 ## 2. For conference organizers
 
@@ -41,7 +41,7 @@ You can offer your speakers some peace of mind when they know someone has their 
 
 When preparing the Call for Papers (CfP), add a field to whatever system you're using to have the speaker indicate if they are willing to be a Speaker Buddy. Include a link to [this repo](https://github.com/marcduiker/speaker-buddy) so they can read more about it.
 
-### 2.2. Speaker onboarding / confirmation
+### 2.2. Speaker onboarding/confirmation
 
 When onboarding/confirming speakers to your conference, mention the Speaker Buddy System and provide the list of speakers who have volunteered to be a Speaker Buddy.
 
@@ -61,7 +61,7 @@ These speakers are volunteering as Speaker Buddies:
 
 Our conference agenda is published at {conference agenda url}, so look for a Speaker Buddy that is available during your session.
 
-It's best to prepare well in advance. For more information how to be prepared, read the tips at https://github.com/marcduiker/speaker-buddy.
+It's best to prepare well in advance. For more information on how to be prepared, read the tips at https://github.com/marcduiker/speaker-buddy.
 
 ---
 
