@@ -21,13 +21,13 @@ You can help out by:
 
 ### 1.2. For speakers who want a Speaker Buddy
 
-If you are going to speak at a conference and you want another speaker to have your back in case you run into technical issues, then this is for you!
+If you are going to speak at a conference and you want another speaker to have your back in case you run into technical issues or just want a friendly and supportive face on the front row, then this is for you!
 
 Once the conference agenda is known and the Speaker Buddies are confirmed by the conference organizers, contact one of the Speaker Buddies (who does not speak at the same time as you!) to ask if they are willing to help you out in case of technical issues / laptop failure, or just being there as a friendly face in the audience. If they are, you can discuss the details such as:
 
 - Supporting you by sitting on the front row (smiling and nodding).
 - Having a copy of your presentation on their machine.
-- Cloning your code repository, SDKs and tools on their machine, if you want to show / run code locally.
+- Cloning your code repository, installing SDKs and tools on their machine, if you want to show / run code locally.
 - Doing a (remote) dry run via their laptop to be completely prepared for a technical failure. (You also test your database backups right?)
 - Is there any other way your buddy can help you out? Can they tell a funny story during the technical issue, ask a relevant question, help out in case you get difficult questions, or do something else to put you at ease?
 
@@ -67,7 +67,7 @@ It's best to prepare well in advance. For more information how to be prepared, r
 
 ### 2.3. Preparing the event location
 
-When you prepare the conference rooms, label a front-row seat for the Speaker Buddy. This way, they can help out the speaker quickly in case of technical issues.
+When you prepare the conference rooms, label a front-row seat for the Speaker Buddy. This way, they can be supportive and help out the speaker quickly in case of technical issues.
 
 ## Contributing
 
