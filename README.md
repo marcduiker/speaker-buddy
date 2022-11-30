@@ -89,4 +89,9 @@ If you have any suggestions, please [open an issue](https://github.com/marcduike
 
 ## Background
 
-I decided to create this repository after reflecting on an unfortunate technical issue I experienced when talking at a conference. [Mattias Karlsson](https://github.com/devlead), who was also speaking there, really saved me by using his laptop and setting up a TeamViewer session between our devices. He was also the one who coined the term "Speaker Buddy".
+I decided to create this repository after reflecting on an unfortunate technical issue I experienced when talking at a conference. [Mattias Karlsson](https://github.com/devlead), who was also speaking there, really saved me by using his laptop and setting up a TeamViewer session between our devices. He was also the one who coined the term "Speaker Buddy". Read the full [blog post on dev.to](https://dev.to/marcduiker/be-ready-for-failure-on-stage-introducing-the-speaker-buddy-system-f89).
+
+## Conferences that have adopted the Speaker Buddy System
+
+- [Virtual Azure Community Day (VACD)](https://azureday.community/)
+- [BC TechDays](https://www.bctechdays.com/)
