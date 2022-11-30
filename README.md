@@ -21,12 +21,15 @@ You can help out by:
 
 ### 1.2. For speakers who want a Speaker Buddy
 
-If you are going to speak at a conference and you want another speaker to have your back in case you run into technical issues or just want a friendly and supportive face on the front row, then this is for you!
+If you are going to speak at a conference and you would like some support from another speaker, then this is for you!
 
-Once the conference agenda is known and the Speaker Buddies are confirmed by the conference organizers, contact one of the Speaker Buddies (who does not speak at the same time as you!) to ask if they are willing to help you out in case of technical issues / laptop failure, or just being there as a friendly face in the audience. If they are, you can discuss the details such as:
+Once the conference agenda is known and the Speaker Buddies are confirmed by the conference organizers, contact one of the Speaker Buddies (who does not speak at the same time as you!) to ask if they are willing to support you. If they are, you can discuss the details such as:
 
-- Supporting you by sitting in the front row (smiling and nodding).
-- Have a copy of your presentation on their machine.
+- Help with reviewing your slides.
+- Help with rehearsing your talk.
+- Supporting you by sitting in the front row (smiling and nodding) at the in-person event.
+- Supporting your online session by attending with their camera on, so you see a friendly face.
+- Have a copy of your presentation on their machine, in case your laptop fails.
 - Cloning your code repository, installing SDKs and tools on their machine, if you want to show/run code locally.
 - Doing a (remote) dry run via their laptop to be completely prepared for a technical failure. (You also test your database backups right?)
 - Is there any other way your buddy can help you out? Can they tell a funny story during the technical issue, ask a relevant question, help out in case you get difficult questions, or do something else to put you at ease?
@@ -35,7 +38,7 @@ Once the conference agenda is known and the Speaker Buddies are confirmed by the
 
 ## 2. For conference organizers
 
-You can offer your speakers some peace of mind when they know someone has their back in case of technical difficulties (e.g. laptop failure).
+You can offer your speakers some peace of mind when they know another speaker can support them.
 
 ### 2.1. CfP preparation
 
@@ -53,7 +56,12 @@ Hi {speaker},
 
 We highly encourage you to look for a Speaker Buddy before attending our conference.
 
-A Speaker Buddy is another speaker that can help you out in case of technical issues (e.g. laptop failure).
+A Speaker Buddy is another speaker that can help you out with:
+
+- slide review,
+- talk rehearsal,
+- technical assistance (e.g. laptop failure at an in-person conference),
+- or simply being there as a friend in the audience (in-person or online).
 
 These speakers are volunteering as Speaker Buddies:
 
@@ -65,9 +73,13 @@ It's best to prepare well in advance. For more information on how to be prepared
 
 ---
 
-### 2.3. Preparing the event location
+### 2.3. Preparing for an in-person event
 
-When you prepare the conference rooms, label a front-row seat for the Speaker Buddy. This way, they can be supportive and help out the speaker quickly in case of technical issues.
+When you prepare the conference rooms for an in-person event, label a front-row seat for the Speaker Buddy. This way, they can be supportive and help out the speaker quickly in case of technical issues.
+
+### 2.4. Preparing for an online event
+
+When you prepare the online conference, ensure that the Speaker Buddy has access to the systems that are used for streaming and/or moderating. This way, they can be supportive and help out the speaker quickly.
 
 ## Contributing
 
