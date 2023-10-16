@@ -32,6 +32,7 @@ Once the conference agenda is known and the Speaker Buddies are confirmed by the
 - Have a copy of your presentation on their machine, in case your laptop fails.
 - Cloning your code repository, installing SDKs and tools on their machine, if you want to show/run code locally.
 - Doing a (remote) dry run via their laptop to be completely prepared for a technical failure. (You also test your database backups right?)
+- Receiving supportive and constructive feedback after your session is finished.
 - Is there any other way your buddy can help you out? Can they tell a funny story during the technical issue, ask a relevant question, help out in case you get difficult questions, or do something else to put you at ease?
 
 > Even with the existence of cloud-based coding environments, I still suggest having a local environment available in case the internet connection is not good enough.
